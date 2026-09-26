@@ -28,7 +28,6 @@ namespace MohawkGame2D
             Window.ClearBackground(0, 0, 50);
 
             // Moon
-            //Draw.SetFillColor(250, 100, 50, 190);
             Draw.SetLineSize(0);
             if (Input.IsKeyboardKeyDown(KeyboardKey.Space))
             {
